@@ -1,0 +1,7 @@
+#	Resumen	Precondiciones	Datos de Entrada	Pasos	Resultado Esperado
+CP-01	Validar turno	Turno agendado	-Nombre y apellido -DNI	1- Ingresar DNI o Nombre y apellido 2- Presionar sobre el boton “Aceptar”	Se espera ver que el paciente tenga un turno asignado.
+CP-02	Validar horario	Turno agendado		1-Ingresar al turno asignado 2-Comparar que sea el mismo horario del turno asignado con la hora que sea	Se espera que el horario sea el correspondiente y se registrara que el paciente llego a tiempo.
+CP-03	Notificar paciente	-Turno agendado -Horario valido		1- Presionar en el boton de “Notificar paciente” 	Se notificara al medico que el paciente esta en la sala de espera
+					
+		ROL: ADMINISTRATIVO			
+
